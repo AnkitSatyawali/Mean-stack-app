@@ -1,0 +1,14 @@
+mat-spinner {
+	margin:auto;
+}
+mat-paginator {
+	margin-top: 1rem;
+}
+.post-image {
+	width: 100%;
+}
+.post-image img {
+	width:100%;
+	height: 400px;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
